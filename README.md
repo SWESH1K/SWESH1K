@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swesh1k&label=Profile%20views&color=0e75b6&style=flat" alt="swesh1k" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swesh1k&theme=onedark" alt="swesh1k" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swesh1k" alt="swesh1k" /></a> </p>
 
-- 🔭 I’m currently working on [Codechef Dashboard for students at KL University Hyderabad](Codechef Dashboard for my College)
+- 🔭 I’m currently working on [Codechef Dashboard for students at KL University Hyderabad](https://github.com/SWESH1K/Codechef_Web)
 
 - 🌱 I’m currently learning **Pandas, Streamlit, Plotly, Numpy**
 
-- 👯 I’m looking to collaborate on [Codechef Dashboard for students at KL University Hyderabad](Codechef Dashboard for my College)
+- 👯 I’m looking to collaborate on [Codechef Dashboard for students at KL University Hyderabad](https://github.com/SWESH1K/Codechef_Web)
 
-- 🤝 I’m looking for help with [Codechef Dashboard for students at KL University Hyderabad](Codechef Dashboard for my College)
+- 🤝 I’m looking for help with [Codechef Dashboard for students at KL University Hyderabad](https://github.com/SWESH1K/Codechef_Web)
 
 - 📫 How to reach me **vagalamsweshikreddy@gmail.com**
 
