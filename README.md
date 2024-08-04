@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Codechef Dashboard for students at KL University Hyderabad](https://github.com/SWESH1K/Codechef_Web)
 
-- 🌱 I’m currently learning **Pandas, Streamlit, Plotly, Numpy**
+- 🌱 I’m currently learning **Django Framework**
 
 - 👯 I’m looking to collaborate on [Codechef Dashboard for students at KL University Hyderabad](https://github.com/SWESH1K/Codechef_Web)
 
